@@ -1,0 +1,6 @@
+/* CSS specific to section one */
+
+.header,
+.sectiononecontent {
+    display: flex;
+}
