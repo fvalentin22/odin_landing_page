@@ -1,6 +1,63 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
 /* CSS specific to section one */
 
-.header,
+.sectionone {
+    background-color: #1f2937;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
 .sectiononecontent {
     display: flex;
+    justify-content: space-between;
+}
+
+.headerlogo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.herotext {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+}
+
+.herosubtext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.imageplaceholder {
+    color: white;
+    background-color: gray;
+}
+
+button {
+    background-color: #3882f6;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
 }
