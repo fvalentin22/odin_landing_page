@@ -22,6 +22,7 @@ body {
 .sectiononecontent {
     display: flex;
     justify-content: space-between;
+    margin: 100px 0px;
 }
 
 .headerlogo {
@@ -43,12 +44,23 @@ body {
 .imageplaceholder {
     color: white;
     background-color: gray;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.leftcontent {
+    flex: 1;
 }
 
 button {
     background-color: #3882f6;
     color: white;
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
 }
 
 ul {
