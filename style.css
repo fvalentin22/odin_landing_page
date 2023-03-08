@@ -84,22 +84,24 @@ a {
     font-size: 36px;
     font-weight: 800;
     color: #1f2937;
+    margin: 50px 0px;
 }
 
 .images {
     display: flex;
     justify-content: center;
     text-align: center;
-    gap: 50px;
+    gap: 60px;
+    margin-bottom: 100px;
 }
 
 .images * {
-    width: 150px;
+    width: 160px;
 }
 
 .emptyimage {
-    height: 150px;
-    width: 150px;
-    border: solid 5px #3882f6;
+    height: 160px;
+    width: 160px;
+    border: solid 4px #3882f6;
     border-radius: 16px;
 }
