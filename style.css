@@ -85,3 +85,13 @@ a {
     font-weight: 800;
     color: #1f2937;
 }
+
+.images {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.images * {
+    width: 200px;
+}
