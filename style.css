@@ -97,6 +97,7 @@ a {
 
 .images * {
     width: 160px;
+    margin-bottom: 8px;
 }
 
 .emptyimage {
