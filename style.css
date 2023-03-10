@@ -115,6 +115,13 @@ a {
     background-color: #e5e7eb;
 }
 
+.quote{
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: 300;
+}
+
 .thor {
     align-self: flex-end;
 }
