@@ -106,3 +106,14 @@ a {
     border: solid 4px #3882f6;
     border-radius: 16px;
 }
+
+/* CSS specific to section three */
+
+.sectionthree {
+    display: flex;
+    flex-direction: column;
+}
+
+.thor {
+    align-self: flex-end;
+}
