@@ -136,6 +136,10 @@ a {
 .sectionfourcontent {
     background-color: #3882f6;
     display: flex;
+    justify-content: space-between;
+    margin: 100px 200px;
+    padding: 50px 100px;
+    border-radius: 10px;
 }
 
 .calltoaction {
