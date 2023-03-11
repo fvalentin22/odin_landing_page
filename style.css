@@ -124,4 +124,6 @@ a {
 
 .thor {
     align-self: flex-end;
+    font-size: 1.5em;
+    font-weight: 800;
 }
