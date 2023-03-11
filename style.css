@@ -137,3 +137,8 @@ a {
     background-color: #3882f6;
     display: flex;
 }
+
+.calltoaction {
+    font-weight: 500;
+    font-size: 1.5em;
+}
