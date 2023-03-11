@@ -110,9 +110,13 @@ a {
 /* CSS specific to section three */
 
 .sectionthree {
+    background-color: #e5e7eb;
+}
+
+.sectionthreecontent {
     display: flex;
     flex-direction: column;
-    background-color: #e5e7eb;
+    padding: 100px 325px;
 }
 
 .quote{
