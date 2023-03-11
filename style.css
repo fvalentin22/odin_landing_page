@@ -129,6 +129,11 @@ a {
 
 /* CSS specific to section four */
 
+.sectionfour {
+    color: white;
+}
+
 .sectionfourcontent {
     background-color: #3882f6;
+    display: flex;
 }
