@@ -111,12 +111,9 @@ a {
 
 .sectionthree {
     background-color: #e5e7eb;
-}
-
-.sectionthreecontent {
+    padding: 100px 325px;
     display: flex;
     flex-direction: column;
-    padding: 100px 325px;
 }
 
 .quote{
